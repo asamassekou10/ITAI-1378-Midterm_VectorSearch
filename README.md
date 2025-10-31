@@ -1,6 +1,8 @@
 VectorSearch: A Multi-Modal E-commerce Search Engine
 
-Team Members: [Your Name]
+Team Members: 
+
+$$Your Name$$
 
 Tier Selection: Tier 2.5 (Advanced)
 
@@ -167,8 +169,12 @@ Estimated Cost: $0.
 
 🧾 AI Usage Log
 
-[2025-10-30] Used Gemini to brainstorm Tier 2/3 project ideas, assess the feasibility of a generative AI project, and refine the scope to the "Lite" Multi-Modal Search concept.
+$$2025-10-30$$
 
-[2025-10-30] Used Gemini to draft the 10-slide proposal presentation and this README.md file based on the course requirements and project idea.
+ Used Gemini to brainstorm Tier 2/3 project ideas, assess the feasibility of a generative AI project, and refine the scope to the "Lite" Multi-Modal Search concept.
+
+$$2025-10-30$$
+
+ Used Gemini to draft the 10-slide proposal presentation and this README.md file based on the course requirements and project idea.
 
 ... (This log will be updated throughout the project) ...
